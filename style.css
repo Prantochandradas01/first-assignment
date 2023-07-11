@@ -1,0 +1,131 @@
+body{
+ margin: 0;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hedder{
+    background-color: #f8dde1;
+}
+.twosite{
+    display: flex;
+    padding: 0px 300px;
+    gap: 5%;
+}
+.header-article{
+    margin-top: 10%;
+}
+.header-article h1{
+    font-size: 65px;
+    margin: 0;
+}
+.header-article p{
+    font-size: 18px;
+}
+.header-article button{
+    padding: 15px 25px;
+    border: none;
+    background-color: #ff6c84;
+    color: #ffff;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.flowers{
+    padding: 0 300px;
+    margin-bottom: 2%;
+}
+.flowers-heading{
+    text-align: center;
+
+}
+.flowers-heading h1{
+    font-size: 35px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.flowers-heading p{
+    margin: 0;
+    padding: 20px 80px;
+}
+.flowers-sections{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 5%;
+}
+.flower-img img{
+    background-color: #f3c3cb;
+    padding: 30px 40px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.flower-img2 img{
+    background-color: #99d7e6;
+    padding: 30px 40px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.flower-img3 img{
+    background-color: #9fe699;
+    padding: 30px 40px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.icons{
+    padding: 30px 300px;
+    margin-bottom: 4%;
+}
+.iconses{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+    background: #d2d2d0cc;
+    border-radius: 10px;
+    padding: 50px  80px;
+    text-align: center;
+}
+.hedder2{
+    background-color: #f8dde1;
+}
+.twosite2{
+    display: flex;
+    padding: 0px 300px;
+    gap: 5%;
+}
+.header-article2{
+    margin-top: 8%;
+}
+.header-article2 h1{
+    font-size: 45px;
+    margin: 0;
+}
+.header-article2 p{
+    font-size: 18px;
+}
+.header-article2 button{
+    padding: 15px 25px;
+    border: none;
+    background-color: #ff6c84;
+    color: #ffff;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.span{
+    color: #ff6c84;
+}
+.fouritems{
+    padding: 40px 300px;
+    text-align: center;
+}
+.fourflow{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.four-head h1{
+    font-size: 35px;
+    margin: 0;
+}
+.tab-sect{
+    background-image: url('.');
+}
